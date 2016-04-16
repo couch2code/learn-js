@@ -63,10 +63,6 @@ pages more dynamic.
 
 ---
 
-# What is a program?
-
----
-
 # What is an application?
 
 ---
@@ -79,7 +75,11 @@ pages more dynamic.
 
 ---
 
-### Hello World
+### Exercise 1 - Hello World
+
+Go to learnJS folder and open the lesson1-ex1 html document
+click on the link, then use the graphical interface to create your
+'Hello World' program.
 
 ---
 
@@ -101,7 +101,23 @@ Commands and Arguments
 
 ---
 
-# Exercise
+# Exercises
+
+---
+
+### Exercise 2 - Program a Web Page
+
+Go to learnJS folder and open the lesson2-ex1 html document
+click on the link, then use the graphical interface to create a web page using
+code.
+
+Add a Heading, Image, List of Items and story.
+
+---
+
+### Exercise 3 - What can you build?
+
+Using the commands to build an interesting web page.
 
 ---
 
@@ -111,21 +127,27 @@ Input and Output
 
 ---
 
-# What is Input?
+### Input
+
+Input is information provide to your application so that the application
+can respond and provide a response.
 
 ---
 
-# What is Output?
+### Output
+
+Output is the response provide by your application to indicate it has completed
+a particular process.
 
 ---
 
-# Demo
+### Demo and Exercise
 
-Magic Eightball
+What is your name?
 
 ---
 
-# Exercise
+### Demo and Exercise
 
 Build your own magic eight ball
 
@@ -150,11 +172,16 @@ command.
 
 ---
 
-# Demo
+### Demo
+
+Lets build a maze game
 
 ---
 
-# Exercise
+### Exercise
+
+Build the same maze game you built in the html lesson, but using javascript and
+functions.
 
 ---
 
@@ -168,15 +195,36 @@ Memory and Data Structures (part 1)
 
 ---
 
+Containers are data structures that can contain other data structures, these are
+referred to as collections and sets, in javascript they are called arrays and
+objects.
+
+---
+
 # Collections or Arrays
 
 ---
 
-# Demo
+An Array, can contain a list of items, to notate this is a list we use the square
+brackets:
+
+```
+[1,2,3,4] // Here is a list of numbers
+['one', 'two', 'three'] // Here is a list of strings
+```
 
 ---
 
-# Exercise
+### Demo
+
+In this demo, we are going to build on our maze project and store our list of
+rooms in an array or list, then add some logic to dynamically select the room.
+
+---
+
+### Exercise
+
+
 
 ---
 
@@ -186,11 +234,16 @@ Memory and Data Structures (part 2)
 
 ---
 
-# Text or Strings
+# Key/Value or Objects
 
 ---
 
-# Key/Value or Objects
+Objects are very similar to arrays, but each item has a name or label and it must
+be unique. These are sometimes called sets or key:value pairs.
+
+```
+{ name: 'Happy Orange 63', age: '45', gender: 'Male' }
+```
 
 ---
 
